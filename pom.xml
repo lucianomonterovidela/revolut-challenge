@@ -14,7 +14,7 @@
         <common.lang>3.6</common.lang>
         <spark-core>2.7.2</spark-core>
         <gson>2.8.2</gson>
-        <jackson>2.10.1</jackson>
+        <jackson>2.12.6.1</jackson>
         <h2>1.4.196</h2>
         <jdbi>3.6.0</jdbi>
         <guice>4.0</guice>
